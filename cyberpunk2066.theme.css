@@ -1,0 +1,28 @@
+/**
+ * @name Cyberpunk 2066
+ * @description Cyberpunk 2066 UI styled theme for better discord
+ * @version 2.0.5
+ * @source https://github.com/PatrykBielanin/discord-cyberpunk2077-theme
+ * @website https://github.com/PatrykBielanin/discord-cyberpunk2077-theme
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani');
+@import url('https://patrykbielanin.github.io/discord-cyberpunk2077-theme/base.css');
+
+:root {
+    --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --font-primary: 'Rajdhani'; /* Font */
+    --primary-text-color: lightgray; /* Font color */
+
+    --primary: 23, 13, 22;  /* Background color mainly used for popups */
+    --red: 0, 200, 0; /* Use RGB values */
+    --blue: 255, 255, 255; /* Use RGB values */
+    --yellow: 255, 255, 0; /* Use RGB values */
+    --green: 0, 200, 0; /* Use RGB values */
+    --dark-green: 0, 200, 0; /* Use RGB values */
+
+    --avatar-circle: 0; /* Square avatar */
+    --avatar-rounded: 5px; /* Square avatars */
+    --avatar-border: 2px solid var(--neon-red-color); /* Border of avatar */
+}
