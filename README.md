@@ -20,5 +20,5 @@
 
 # The theme is not made by me, I just changed its color. Thank you for attention.
 іуікпвнегна
-яви
+РЦК
 пцЦЦЦЦЦЦЦЦЦЦЦЦ
