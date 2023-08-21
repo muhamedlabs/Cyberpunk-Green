@@ -19,6 +19,3 @@
 7. And congratulations, you installed the Discord topic.
 
 # The theme is not made by me, I just changed its color. Thank you for attention.
-уіепвпвчспмвачпвкчпв
-іке икеигкк ткіунреу к
-кегапорапрапрарнке
