@@ -3,8 +3,7 @@
 
 # And so let's start
 
-1. You need to download BetterDiscord and install it (https://betterdiscord.app/) імвімвіміівмівмвімі
-
+1. You need to download BetterDiscord and install it (https://betterdiscord.app/) 
 2. Then download cyberpunk2066.theme.css
 
 3. Open Discord settings
