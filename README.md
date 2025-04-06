@@ -1,19 +1,47 @@
-# Let's make a top theme for Discord
-![Y74x0ZvjfL](https://user-images.githubusercontent.com/128980327/229358883-5ee71fb3-3373-4a60-b76c-7639f301f0d0.png)
+<div align="center">  
+  <h1>Cyberpunk-Green | Discord Theme</h1>  
+</div>  
 
-# And so let's start
+![Discord_nXLGfeqpru](https://github.com/user-attachments/assets/bdfdaf70-8ff6-44b0-954e-26683f2e688f)
 
-1. You need to download BetterDiscord and install it (https://betterdiscord.app/) 
-2. Then download cyberpunk2066.theme.css
+## Description
+The **Cyberpunk-Green** theme brings a neon cyberpunk style to Discord with green accents. It features:  
+🔹 Cyberpunk-style image background  
+🔹 Neon green interface elements  
+🔹 Semi-transparent "glass" panels  
+🔹 Highlighting animations for interactivity  
 
-3. Open Discord settings
+## Features
+- **Image background**: A cyberpunk-style car (customizable)
+- **Neon effects**: Dynamic neon green accents throughout the theme
+- **Optimized readability**: Semi-transparent overlay for better text contrast
+- **Responsive design**: Works seamlessly across all screen sizes
+- **Customizable interface**: Tailor the theme's colors and effects via the CSS file
 
-4. At the very bottom, you will find BetterDiscord in the stack and there select a sub-item of the topic
+## Installation
+1. Install [BetterDiscord](https://betterdiscord.app/) or [Vencord](https://vencord.dev/)
+2. Download the theme file (`Cyberpunk-Green.css`)
+3. Place it in the `Themes` folder in your Discord client directory
+4. Enable the theme in your Discord settings
 
-5. Then from the top, press the button to open the theme folder
+## Customization
+To customize the theme, adjust the CSS file like so:
+```css
+:root {
+    --neon-green-color: rgba(0, 255, 100, 0.7); /* Neon green color */
+    --primary-text-color: #e0ffe0; /* Text color */
+    --glass-panel-opacity: 0.5; /* Adjust opacity of the glass panels */
+}
+```
 
-6. Finally, transfer the file downloaded by cyberpunk2066 to the tk folder and don't forget to activate the topic in Discord.
 
-7. And congratulations, you installed the Discord topic.
+## Screenshots
 
-# The theme is not made by me, I just changed its color. Thank you for attention.
+![Discord_PgUNVwKEs4](https://github.com/user-attachments/assets/98b72168-51fb-4d89-9189-509189f87015)
+
+![Discord_E4q0U8NDOr](https://github.com/user-attachments/assets/1b77a52a-465d-4f37-9615-6ee1d5e3a32f)
+
+## Credits
+- **PatrykBielanin**: Base theme inspired by [Cyberpunk 2077](https://github.com/PatrykBielanin/discord-cyberpunk2077-theme)
+- **[Muhamed Ads](https://github.com/muhamedlabs)** — for improvements and ideas.
+
